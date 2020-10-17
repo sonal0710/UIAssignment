@@ -8,7 +8,8 @@ For development, you will only need Node.js and a node global package, npm, inst
 
 ## Install
 
-    $ Unzip folder
+    $ git clone https://github.com/sonal0710/UIAssignment.git
+    $ cd UIAssignment
     $ npm install
 
 ### Run
