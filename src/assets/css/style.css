@@ -1,0 +1,73 @@
+body {
+    font-family: Poppins !important;
+    font-style: normal;
+    background-color: #f2f3f8 !important;
+    font-size: 15px !important;
+ }
+.top-margin {
+    margin-top: 1rem;
+}
+.main-header {
+    border-bottom: 1px solid #e5e5e5;
+    background: linear-gradient(135deg, #ffa402 1%,#fe5eab 100%);
+}
+.main-header .header-nav.desk {
+    display: inline-block;
+    margin: 0;
+    width: 85%;
+    font-weight: 500;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+.text-center {
+    padding-top: 25px;
+}
+.save-btn {
+    float: right;
+    margin: 10px 10px 10px 0px;
+}
+.main_module {
+    background-color: #f7f7f7;
+}
+.width-100 {
+    width: 100%;
+}
+.top-heading {
+    font-size: 1.5rem;
+    color: white;
+}
+.gradient-outline-btn, .gradient-outline-btn:hover {
+    border: solid 1px transparent !important;
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(135deg,#ffa402 1%,#fe5eab 100%);
+    box-shadow: 2px 1000px 1px #fff inset !important;
+    color: #fe5eab !important;
+    border-radius: 60px !important;
+    padding: 0.25rem 1.5rem  !important;
+}
+.white-box {
+    box-shadow: 0 1px 15px 1px rgba(113,106,202,.08);
+    background-color: #fff;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+}
+.form-control, .form-control:focus {
+    border-radius: 0 !important;
+    padding-left: 5px;
+    font-size: 15px !important;
+}
+.mt-2 {
+    margin-top: 2rem;
+}
+.ml-auto {
+    margin-left: auto;
+}
+.form-check-input{
+    margin-top: 0.6rem;
+}
+.del-option {
+    height: 40px;
+    color: #fe5eab; 
+}
+
+
